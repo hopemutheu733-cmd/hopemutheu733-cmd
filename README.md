@@ -1,28 +1,45 @@
 # Hi, I'm Hope Mutheu 👋
 
-**AI Integration Engineer** building healthcare automation — where clinical
-knowledge meets LLM pipelines.
+AI Engineer and automation builder focused on healthcare AI, LLM workflows, and grounded business tooling.
 
-Perioperative theatre technology background · ICD-10 · HIPAA-certified
+I build projects that connect AI to real operational systems: knowledge retrieval, workflow automation, clinical and domain-specific assistants, and data-backed decision support.
 
-## 🏥 Featured Projects
+## Featured projects
 
-- **[n8n-icd10-assistant](https://github.com/hopemutheu733-cmd/n8n-icd10-assistant)** —
-  AI-assisted ICD-10-CM code lookup. LLM + Postgres full-text search with
-  database validation so no made-up codes. 74.9K codes from CMS.
-- **[n8n-clinic-rag-bot](https://github.com/hopemutheu733-cmd/n8n-clinic-rag-bot)** —
-  RAG clinic assistant (pgvector + Gemini embeddings) with appointment booking,
-  EMERGENCY/HANDOFF triage tags, and staff alerts.
+- [n8n-icd10-assistant](https://github.com/hopemutheu733-cmd/n8n-icd10-assistant) — AI-assisted ICD-10-CM lookup built with n8n, Supabase, and OpenRouter. The assistant uses a real code database to ground suggestions and reduce hallucination.
+- [langchain-icd10-assistant](https://github.com/hopemutheu733-cmd/langchain-icd10-assistant) — Python + FastAPI + LangChain assistant for clinical symptom-to-code suggestions. This version focuses on AI pipeline design, API engineering, and evaluation.
+- [n8n-clinic-rag-bot](https://github.com/hopemutheu733-cmd/n8n-clinic-rag-bot) — clinic RAG assistant with patient triage, knowledge retrieval, appointment booking, and staff alerts.
 
-## 🛠️ Stack
+## What I work with
 
-`n8n` `Make.com` `Supabase / Postgres` `pgvector` `OpenRouter` `Python` `JavaScript`
+`Python` `FastAPI` `LangChain` `n8n` `Supabase` `PostgreSQL` `pgvector` `OpenRouter` `Gemini` `MySQL` `Docker` `GitHub`
 
-## 📜 Currently
+## What I build
 
-- Adding an evaluation benchmark to my ICD-10 assistant (measured top-3 accuracy)
-- Learning: FastAPI, hybrid retrieval (keyword + embeddings)
+- AI assistants grounded in real data
+- healthcare workflow automation
+- LLM-powered operational tools
+- RAG systems with document retrieval and safety checks
+- workflow integrations for business and service processes
 
-## 📫 Connect
+## Current focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/hope-mutheu-3751a842a)
+- designing AI systems that stay grounded in trusted data
+- building healthcare and workflow automation projects
+- improving evaluation, safety, and production-readiness in AI apps
+
+## Open to
+
+- AI Engineer roles
+- Backend / API roles with AI integrations
+- Automation Engineer roles
+- Healthcare technology and workflow automation opportunities
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/hope-mutheu-3751a842a
+- GitHub: https://github.com/hopemutheu733-cmd
+
+## Short profile statement
+
+I build AI and automation systems that turn messy user input into reliable, grounded workflows for real-world use cases.
